@@ -21,4 +21,4 @@ venv/
 .vscode/
  
 # Results (optional - remove if you want to push plots)
-# results/
+# results/kaggle.json
