@@ -8,10 +8,10 @@ using deep learning with DenseNet121 transfer learning.
 ##  Results
 | Metric | Score |
 |--------|-------|
-| Accuracy | 91% |
-| ROC-AUC | 97.32% |
-| Precision (Pneumonia) | 95% |
-| Recall (Pneumonia) | 91% |
+| Accuracy | 98% |
+| ROC-AUC | 98.32% |
+| Precision (Pneumonia) | 96% |
+| Recall (Pneumonia) | 95% |
 
 ##  Dataset
 - **Source:** [Kaggle - Chest X-Ray Images](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
